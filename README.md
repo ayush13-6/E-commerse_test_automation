@@ -22,5 +22,3 @@ Folder directory information -
 * Test - Main file consisting of the test script
 
 
-
-*Referrence* - Youtube tutorial by LX-schlee https://www.youtube.com/watch?v=e9Bf769mXu0
